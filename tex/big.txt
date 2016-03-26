@@ -1,0 +1,10 @@
+\documentclass{article}
+\usepackage[cp1251]{inputenc}
+\usepackage[T2A]{fontenc}
+
+\begin{document}
+Минимальный докумет \LaTeX.
+
+\end{document}
+
+26 РјР°СЂ 2016 Рі. 14:59:50
